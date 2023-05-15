@@ -66,7 +66,7 @@
                             <blockquote class="blockquote mb-0">
                                 <p class="redtitle">How do I know I am with a RL woman too?</p>
                                 <footer class="blockquote-footer">
-                                    <cite title="Source Title">Every girl must do a cam verification.</cite>
+                                    <cite title="Source Title">Every girl was verificated by the Leader of our family.</cite>
                                 </footer>
                             </blockquote>
                         </li>
@@ -106,7 +106,7 @@
                             </blockquote>
                         </li>
                         <li class="list-group-item">
-                            <a href="#" class="link-dark">Form to apply for Escorting</a>.
+                            <a href="https://forms.gle/fg34SQVtuYAUxN2r6" class="link-dark" target="_blank">Form to apply for Escorting</a>.
                         </li>
                         <li class="list-group-item">
                             <a href="#" class="link-dark">Form to apply for Sub/Slave</a>.
@@ -159,7 +159,7 @@
                     <div class="card-img-overlay">
                         <h5 class="card-title">Bella's Closet</h5>
                         <p class="card-text">Bella's Closet | Character creator</p>
-                        <p class="card-text">Shapes, look change. SL Contact: <a href="secondlife:///app/agent/e3bcebde-6214-4cef-a441-b226745b3712/im">βαвуAηɢєƖ Ѡαʟʟɪຮ</a></p>
+                        <p class="card-text">Shapes, look change. SL Contact: <a href="secondlife:///app/agent/e3bcebde-6214-4cef-a441-b226745b3712/im">βαвуAηɢєƖ Ѡαʟʟɪຮ</a>&emsp;<a href="https://www.flickr.com/photos/193206086@N07">βαвуAηɢєƖ Ѡαʟʟɪຮ Flickr</a></p>
                     </div>
                 </div>
                 <div class="card text-danger">
