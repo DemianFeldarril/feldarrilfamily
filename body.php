@@ -123,13 +123,13 @@
             <div class="col-8 border-light"><!--CHICAS RECIEN AGREGADAS-->
                 <div class="card-group text-white">
                     <div class="card bg-dark border-danger">
-                        <img src="5.jpg" class="card-img-top" alt="...">
+                        <img src="5.png" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title redphasize">Avatar Shown Name (Avatar Name)</h5>
-                            <p class="card-text">This is [Avatar Name] our newest Escort, feel free to contact her In World or in our family Group.</p>
+                            <h5 class="card-title redphasize">AlejandraMtr</h5>
+                            <p class="card-text">This is AlejandraMtr Resident, our newest Model, feel free to contact her In World or in our family Group.</p>
                         </div>
                         <div class="card-footer">
-                            <small class="text-danger">Last updated 3 mins ago</small>
+                            <small class="text-danger">Last updated May 15th, 2023</small>
                         </div>
                     </div>
                     <div class="card bg-dark border-danger">
@@ -155,11 +155,11 @@
                 </div>
                 <!--SEPARADOR--><div class="separador"></div><!--SEPARADOR-->
                 <div class="card text-danger">
-                    <img src="https://www.pinoylinux.org/wp-content/uploads/2018/08/place-your-ad-here.jpg" class="card-img">
+                    <img src="bellascloset.png" class="card-img">
                     <div class="card-img-overlay">
-                        <h5 class="card-title">Wanna Sell Something?</h5>
-                        <p class="card-text">We host your advices for your spaces, from flickr, Second Life Stores, Clubs or whatever you want to show to the world.</p>
-                        <p class="card-text">Last updated 3 mins ago</p>
+                        <h5 class="card-title">Bella's Closet</h5>
+                        <p class="card-text">Bella's Closet | Character creator</p>
+                        <p class="card-text">Shapes, look change. SL Contact: <a href="secondlife:///app/agent/e3bcebde-6214-4cef-a441-b226745b3712/im">βαвуAηɢєƖ Ѡαʟʟɪຮ</a></p>
                     </div>
                 </div>
                 <div class="card text-danger">
