@@ -126,7 +126,7 @@
                         <img src="5.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title redphasize">AlejandraMtr</h5>
-                            <p class="card-text">This is AlejandraMtr Resident, our newest Model, feel free to contact her In World or in our family Group.</p>
+                            <p class="card-text">This is AlejandraMtr Resident, our newest Model, feel free to contact her <a href="secondlife:///app/agent/72d5c9b6-80a5-45ad-9bab-9e67c10ec358/im">In World</a> or in our <a href="secondlife:///app/group/f22c0fd2-a9b3-a4a9-cd52-e3d8098463f9/about">family Group</a>.</p>
                         </div>
                         <div class="card-footer">
                             <small class="text-danger">Last updated May 15th, 2023</small>
@@ -135,11 +135,11 @@
                     <div class="card bg-dark border-danger">
                         <img src="6.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title redphasize">Avatar Shown Name (Avatar Name)</h5>
-                            <p class="card-text">This is [Avatar Name] our newest Escort, feel free to contact her In World or in our family Group.</p>
+                            <h5 class="card-title redphasize">elaιne ғeldarrιl (vanessaelaineis)</h5>
+                            <p class="card-text">This is elaιne ғeldarrιl our newest Escort, feel free to contact her <a href="secondlife:///app/agent/506cfe1c-9ec1-4f0d-8677-3e69d7c74ca7/im">In World</a> or in our <a href="secondlife:///app/group/f22c0fd2-a9b3-a4a9-cd52-e3d8098463f9/about">family Group</a>.</p>
                         </div>
                         <div class="card-footer">
-                            <small class="text-danger">Last updated 3 mins ago</small>
+                            <small class="text-danger">Last updated May 15th, 2023</small>
                         </div>
                     </div>
                     <div class="card bg-dark border-danger">
@@ -154,7 +154,7 @@
                     </div>
                 </div>
                 <!--SEPARADOR--><div class="separador"></div><!--SEPARADOR-->
-                <div class="card text-danger">
+                <div class="card text-white" style="font-weight:bolder !important;">
                     <img src="bellascloset.png" class="card-img">
                     <div class="card-img-overlay">
                         <h5 class="card-title">Bella's Closet</h5>
